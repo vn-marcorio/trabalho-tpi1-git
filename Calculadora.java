@@ -25,7 +25,7 @@ public class Calculadora {
         }
     }
 
-    // PASSO 11: ESTE É O MEU COMENTÁRIO MANUAL PARA O TRABALHO DE GIT
+    // PASSO 11: O MEU COMENTÁRIO PARA O TRABALHO 
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
         
