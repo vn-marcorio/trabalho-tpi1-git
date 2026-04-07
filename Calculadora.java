@@ -25,10 +25,10 @@ public class Calculadora {
         }
     }
 
-    // PASSO 11: O MEU COMENTÁRIO PARA O TRABALHO 
+    // PASSO 11: O MEU COMENTÁRIO PARA O TRABALHO
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
-        
+
         System.out.println("Soma: " + calc.calcular("soma", 10, 5));
         System.out.println("Subtração: " + calc.calcular("subtracao", 10, 5));
         System.out.println("Multiplicação: " + calc.calcular("multiplicacao", 10, 5));
