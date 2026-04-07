@@ -1,7 +1,7 @@
 public class Calculadora {
 
     /**
-     * Executa uma operação matemática básica.<<<<<<< HEAD
+     * Executa uma operação matemática básica.
      * @param operacao
      * @param operacao Tipo da operação: "soma"
      * @param a Primeiro número
@@ -22,7 +22,6 @@ public class Calculadora {
         Calculadora calc = new Calculadora();
 
         calc.calcular( "", 0, 0 );
-=======
             case "soma":
                 return a + b;
             
@@ -34,7 +33,6 @@ public class Calculadora {
         Calculadora= calc = new Calculadora();
 
         System.out.println("Soma: " + calc.calcular("soma", 10, 5));
->>>>>>> origin/amissao
     }
 }
 
